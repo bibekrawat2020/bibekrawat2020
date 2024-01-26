@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bibekrawat2020
 - 👀 I’m interested in IT.
-- 🌱 I’m currently learning .NET
 - 📫 How to reach me bibekrawat14@gmail.com
 
 <!---
